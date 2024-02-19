@@ -1,0 +1,87 @@
+.body{
+    background-color: #2E281D;
+    color: #2E281D;
+}
+hr.new4 {
+    border: 1px solid grey;
+  }
+nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 0px;
+}
+#hammer{
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+#logoimg{
+    width: 50px;
+    height: 50px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+.button{
+    padding: 10px 20px;
+    border: 1px solid white;
+    outline: 0;
+    border-radius: 25px;
+    cursor: grab;
+    font-weight: 500;
+    background-color: transparent;
+    color: white;
+    
+}
+.button2{
+     padding: 10px 20px;
+    border: 1px solid white;
+    outline: 0;
+    border-radius: 25px;
+    cursor: grab;
+    font-weight: 500;
+    background-color: transparent;
+    color: white;
+    
+}
+.button3{
+    padding: 10px 20px;
+   border: 1px solid white;
+   outline: 0;
+   border-radius: 25px;
+   cursor: grab;
+   font-weight: 500;
+   background-color: transparent;
+   color: white;
+   margin-top: 10px;
+   
+}
+ 
+.container1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+
+}
+.heading{
+    font-size: 5rem;
+    font-weight: bold;
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 220px;
+    margin-top: 20px;
+    border-radius: 20px;
+    
+}
+.radius{
+    border-radius: 20px;
+}
+
+
